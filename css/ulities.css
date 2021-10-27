@@ -1,0 +1,39 @@
+/* root value */
+:root {
+     --main-color: #03a9f4;
+     --main-background:#0694d6;
+ }
+
+ .text-center{
+    text-align: center;
+}
+.list-none{
+   list-style: none;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.color-white{
+    color:#fff;
+}
+.background-section{
+    background-color: #f9f9f9;
+}
+.mrg-auto{
+    margin:auto;
+}
+.float-left{
+    float: left;
+}
+.main-background{
+    background-color: var(--main-background);
+}
+.main-color{
+    color:var(--main-color);
+}
+.overflow{
+    overflow: hidden;
+}
